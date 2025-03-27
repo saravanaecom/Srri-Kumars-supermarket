@@ -42,7 +42,7 @@ const CategoryCards = () => {
                     marginBottom: 4,
                 }}
             >
-                Categories
+               TOP  Categories
             </Typography>
             <Grid container spacing={8} justifyContent="center">
                 {/* First row with two cards */}
